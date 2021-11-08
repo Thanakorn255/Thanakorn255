@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Wihokkun</h1>
-<h3 align="center">Hello.My major was Computer Engineering (KMITL).</h3>
+<h3 align="center">Hello My major was Computer Engineering (KMITL).</h3>
 
 - 📫 How to reach me **63010255@kmitl.ac.th**
 
