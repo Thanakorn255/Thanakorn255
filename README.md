@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Wihokkun</h1>
-<h3 align="center">Hello.My major was Computer Engineering.I’m a student at King Mongkut's Institute of Technology Ladkrabang (KMITL)</h3>
+<h3 align="center">Hello.My major was Computer Engineering (KMITL)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanakorn255&label=Profile%20views&color=0e75b6&style=flat" alt="thanakorn255" /> </p>
 
